@@ -1,2 +1,0 @@
-# MynewRepository
-Created with CodeSandbox
